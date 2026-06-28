@@ -15,6 +15,9 @@ namespace D365RiskAnalyzer
         public AssessmentForm()
         {
             InitializeComponent();
+            this.WindowState = FormWindowState.Maximized;
+            this.FormBorderStyle = FormBorderStyle.Sizable;
+
         }
 
         private void btnCalculate_Click(object sender, EventArgs e)

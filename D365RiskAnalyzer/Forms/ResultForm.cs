@@ -20,6 +20,8 @@ namespace D365RiskAnalyzer
         public ResultForm(string company, string project, int score, string level, List<string> riskDetails)
         {
             InitializeComponent();
+            this.WindowState = FormWindowState.Maximized;
+            this.FormBorderStyle = FormBorderStyle.Sizable;
 
             this.riskDetails = riskDetails;
 

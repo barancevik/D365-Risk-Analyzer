@@ -14,6 +14,8 @@ namespace D365RiskAnalyzer
         public HistoryForm()
         {
             InitializeComponent();
+            this.WindowState = FormWindowState.Maximized;
+            this.FormBorderStyle = FormBorderStyle.Sizable;
         }
 
         private void HistoryForm_Load(object sender, EventArgs e)
