@@ -8,6 +8,13 @@ The application evaluates key project areas such as governance, data migration, 
 
 The goal is to provide early visibility into potential project risks and help project teams reduce implementation failures.
 
+
+## Screenshots
+
+![Main Dashboard](screenshots/dashboard.png)
+![Assessment Form](screenshots/assessment.png)
+![Result Report](screenshots/result.png)
+
 ## Features
 
 * Risk assessment questionnaire
