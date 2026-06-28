@@ -11,9 +11,9 @@ The goal is to provide early visibility into potential project risks and help pr
 
 ## Screenshots
 
-![Main Dashboard](screenshots/dashboard.png)
-![Assessment Form](screenshots/assessment.png)
-![Result Report](screenshots/result.png)
+![Main Dashboard](dashboard.png)
+![Assessment Form](assessment.png)
+![Result Report](result.png)
 
 ## Features
 
