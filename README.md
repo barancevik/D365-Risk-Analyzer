@@ -8,6 +8,11 @@ The application evaluates key project areas such as governance, data migration, 
 
 The goal is to provide early visibility into potential project risks and help project teams reduce implementation failures.
 
+## Download & Run
+
+Download the latest release from the [Releases](https://github.com/barancevik/D365-Risk-Analyzer/releases) page.
+
+> **Note:** Windows SmartScreen may show a warning when running the application for the first time. Click "More info" and then "Run anyway" to proceed. This is expected behavior for open-source applications without a code signing certificate.
 
 ## Screenshots
 
